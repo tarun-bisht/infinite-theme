@@ -1,0 +1,130 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap);
+    #content {
+    position: relative;
+    background: #fff;
+    padding: 50px 0 40px 0;
+}
+.navbar-brand span {
+    color: #68a4c4;
+}
+.image-overlay {
+    width: 100%;
+    background: #fcfcfc;
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+.image-overlay .container {
+    padding: 2rem;
+}
+.carousel img {
+    max-height: 70vh;
+    margin: 0 auto;
+}
+.thumbnail-photo {
+    height: 127px;
+    width: 127px;
+}
+.author {
+    background: #f9f9f9;
+    padding: 2rem;
+}
+.box {
+    width: 100%}
+.box-gray {
+    background: #f8f8f8;
+    padding: 20px 20px 30px;
+}
+.aligncenter {
+    text-align: center;
+}
+.box-gray h4, .box-gray i {
+    margin-bottom: 20px;
+    font-weight: 300;
+}
+.box-gray i {
+    font-size: 2rem;
+}
+.box-bottom {
+    background: #68a4c4;
+    padding: 20px 0;
+    text-align: center;
+}
+.box-bottom a {
+    color: #fff;
+    font-weight: 700;
+    font-size: 15px;
+}
+.fc-head {
+    margin-top: 2rem;
+    font-size: 1rem;
+}
+ul.list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+ul.social-network {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    font-size: 1rem;
+}
+ul.social-network li {
+    margin-right: 1rem;
+}
+.copyright {
+    text-align: left;
+    font-size: .8rem;
+}
+footer a {
+    color: #fff;
+}
+footer a:hover {
+    color: #eee;
+}
+.cover-img, .cover-img figcaption {
+    background-color: #68a4c4;
+}
+.cover-img img {
+    width: 256px;
+    height: 256px;
+}
+.center-lg {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.port {
+    margin-bottom: 1rem;
+}
+.heading {
+    margin-top: 2rem;
+}
+.thumbnail {
+    height: 100px;
+    width: 100px;
+}
+.grey {
+    background: #f9f9f9!important;
+}
+.categories {
+    width: 150px;
+    border: 1px #68a4c4 solid;
+    display: block;
+    margin-left: auto;
+}
+.category-alert {
+    display: none;
+}
+@media(max-width:1000px) {
+    .box {
+    padding-bottom: 2rem;
+}
+.center-sm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+}

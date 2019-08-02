@@ -1,0 +1,101 @@
+/* tags styling */
+*
+{
+  font-family: 'Source Code Pro', monospace;
+}
+a:hover
+{
+  text-decoration: none;
+}
+body
+{
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 1.6em;
+  color: #656565;
+}
+big
+{
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+h1, h2, h3, h4, h5, h6
+{
+  font-weight: 700;
+  line-height: 1.1em;
+  color: #333;
+  margin-bottom: 20px;
+}
+footer
+{
+  background: #68A4C4;
+  padding: 1rem;
+  color: #f8f8f8;
+}
+footer h1, footer h2, footer h3, footer h4, footer h5, footer h6
+{
+  color: #fff;
+  font-weight: 700;
+}
+/* bootstrap class styling */
+.row, .row-fluid
+{
+  margin-bottom: 30px;
+}
+.container
+{
+  padding: 0 20px 0 20px;
+  position: relative;
+}
+.active
+{
+  color: #68A4C4;
+}
+.navbar
+{
+  min-height: 100px;
+}
+.navbar-brand
+{
+  font-family: 'Open Sans', Arial, sans-serif;
+  text-transform: uppercase;
+  line-height: 1em;
+  letter-spacing: -1px;
+  font-size: 1.7rem;
+  margin-left: 1rem;
+  color: #777;
+  font-weight: 700;
+  box-sizing:border-box;
+}
+.navbar-brand:hover
+{
+  color: #aaa;
+}
+.nav-link
+{
+  font-size: 0.9rem;
+  color: #111 !important;
+  margin-right: 1rem;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.nav-link:hover
+{
+  color: #68A4C4 !important;
+}
+.nav-item
+{
+  margin-left: auto;
+}
+.navbar-toggler
+{
+  color: #222;
+  font-size: 1.5rem;
+  background: Transparent;
+  outline-style: none !important;
+  border: none;
+}
+.navbar-collapse
+{
+  transition: all ease-in-out 0.5s;
+}
