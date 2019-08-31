@@ -118,25 +118,6 @@ footer a:hover {
 .category-alert {
     display: none;
 }
-.cover
-{
-    height:120px;
-    width: 100%;
-    background: url('../img/1.jpg');
-    padding-top:20px;
-}
-.cover-down
-{
-    display: flex;
-    justify-content: flex-end;
-    border-bottom: 2px solid red;
-    min-height: 80px;
-}
-.cover-down h5
-{
-    margin-top: 30px;
-    margin-bottom: 0px;
-}
 @media(max-width:1000px) {
     .box {
     padding-bottom: 2rem;

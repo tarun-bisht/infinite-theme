@@ -1,0 +1,32 @@
+.cover
+{
+    height:200px;
+    width: 100%;
+    background: url('../img/1.jpg');
+    padding-top:20px;
+}
+.cover-down
+{
+    border-bottom: 2px solid red;
+    min-height: 80px;
+}
+.profile
+{
+    position:relative;
+    top: -80px;
+    padding-bottom:1rem;
+}
+.cover-down h5
+{
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+@media(max-width: 700px)
+{
+    .profile
+    {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
