@@ -1,10 +1,18 @@
 # infinite-theme
-Web Frontend Theme created with HTML, CSS and JS
-<h1>Infinite Theme</h1>
-<h6>Devloped by: Tarun Bisht</h6>
-<a href="https://tarun-bisht.github.io/infinite-theme/">Live Demo of Website</a>
-<ul>
-	<li>Fully Responsive Website</li>
-	<li>Frontend created with HTML, CSS, BOOTSTRAP and JQUERY</li>
-	<li>Uses Animations from ImageHover.css and Animate.css</li>
-</ul>
+Minimilistic Website Theme created with HTML, CSS and JS
+
+### [Live Demo]("https://tarun-bisht.github.io/infinite-theme/")
+
+### Features:
+- Fully Responsive Website Template
+- Simple frontend with HTML, CSS, Bootstrap and JQuery
+- Animations Effects
+
+### Dependencies
+- ImageHover.css
+- Animate.css
+- JQuery
+- Bootstrap
+
+### References
+- [3D Login Form](https://codepen.io/jenning/pen/RVRYeb) from codepen by [Jenning](https://codepen.io/jenning)
