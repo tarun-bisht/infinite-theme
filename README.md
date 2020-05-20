@@ -1,7 +1,5 @@
 # infinite-theme
 Minimilistic Website Theme created with HTML, CSS and JS
----
-
 [Live Demo]("https://tarun-bisht.github.io/infinite-theme/")
 
 ### Features:
